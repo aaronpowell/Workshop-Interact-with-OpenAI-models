@@ -14,7 +14,7 @@ For this workshop you are using a custom playground build on-top of the Azure Op
 ## Authenticate
 
 Your workshop instructor will provide you with an **access key** that will be valid during the workshop session. Setup is now a quick 2-step process. 
- 1. Navigate to the [Microsoft AI Tour Playground](https://aka.ms/aitour/playground) in browser, as shown below. 
+ 1. Navigate to the [Microsoft AI Build Day workshop registration page](https://aka.ms/ai-anz/workshop/registration) in browser, as shown below. 
  2. Enter the **access-key** at top-right and click `Authorize` to login.
     ![AI Tour Playground](./images/aitour-playground-chat.png) 
 
